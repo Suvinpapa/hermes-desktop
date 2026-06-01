@@ -5,9 +5,9 @@
 ```yaml
 status: active
 last_agent: antigravity
-last_branch: main
-last_session: 2026-06-01T13:38:00+09:00
-session_count: 3
+last_branch: My_work
+last_session: 2026-06-01T15:13:00+09:00
+session_count: 5
 ```
 
 ## 프로젝트 개요
@@ -40,3 +40,5 @@ Hermes Agent Desktop — self-improving AI assistant
 | 2026-06-01T10:58:30+09:00 | antigravity | main | active | 초기 MEMORY.md 생성 및 프로젝트 확인 |
 | 2026-06-01T11:53:00+09:00 | antigravity | main | active | WSL2 systemd 자동실행 환경변수 주입 및 SSH 무암호 연동 완료 |
 | 2026-06-01T13:38:00+09:00 | antigravity | main | active | SSH 세션 연동 오류(API_SERVER_KEY) 해결 및 Gemini 3.1 flash lite 모델 설정 완료 |
+| 2026-06-01T15:02:00+09:00 | antigravity | My_work | active | My_work 브랜치 생성 및 전환 |
+| 2026-06-01T15:13:00+09:00 | antigravity | My_work | active | 작업 내역 커밋 및 원격 저장소 푸쉬 |

@@ -37,3 +37,6 @@ release/
 # Local launcher scripts (user-specific, do not commit)
 /*.bat
 /*.ps1
+
+# Electron-vite temporary config files
+electron.vite.config.*.mjs
